@@ -149,3 +149,11 @@ C and C Alpha Group (830)
 
 
 https://github.com/achkap/D3js-uk-political-donations/blob/stats/participants/index.html
+
+
+## Τελική Αναφορά
+
+Η τελική αναφορά για όλα τα ζητούμενα που πραγματοποιήθηκαν δημιουργήθηκε σε διαφορετική σελίδα.
+Για το λόγο αυτό δημιουργήθηκε νέο αποθετήριο με το όνομα britishparties και η σελίδα της τελικής αναφοράς είναι:
+
+https://achkap.github.io/britshparties/
